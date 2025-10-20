@@ -14,3 +14,9 @@ To develop an interactive and comprehensive, weekly Credit Card dashboard design
 - Blue and Silver Credit Card holders are contributing to 93% of the overall transactions.
 - TX, NY & CA states have contributed around 68% to the overall revenue.
 - Overall delinquency rate is 6.06%
+
+Click here to view the [SQL queries](https://github.com/mjameel9/Credit_Card_Financial_Report_Dashboard/blob/main/SQL_queries.sql)
+
+Click here to view the [Credit Card Customer Dashboard](https://github.com/mjameel9/Credit_Card_Financial_Report_Dashboard/blob/main/Credit_card_Report_Customer.pdf)
+
+Click here to view the [Credit Card Transactions Dashboard](https://github.com/mjameel9/Credit_Card_Financial_Report_Dashboard/blob/main/Credit_card_Report_Transaction.pdf)
